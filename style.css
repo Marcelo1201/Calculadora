@@ -1,6 +1,5 @@
 body{
     background-color: blue;
-
 }
 
 .principal{
@@ -14,7 +13,31 @@ body{
     padding: 1em;
 }
 
-.calculadora{
-    cursor: pointer;
+#resultado{
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    background-color: #ebeaea;
+    height: 50px;
 }
 
+.calculadora{
+    margin: auto;
+}
+
+.botao{
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    vertical-align: top;
+    margin: 2px;
+    text-transform: uppercase;
+}
+
+.igual{
+    height: 104px;
+}
+
+.zero{
+    width: 104px;
+}
