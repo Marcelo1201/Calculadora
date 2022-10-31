@@ -11,12 +11,11 @@ Desenvolvi este site para fins práticos e melhoria das minhas habilidades com p
 ![telacalculadora](https://user-images.githubusercontent.com/51996663/198749635-57c9f640-bdf8-43c6-b200-8baba4ea3c59.jpg)
 
 # Tecnologias utilizadas
-## Front-End
 - JavaScript
 - HTML
 - CSS
 ## Implantação
-- Front-End web: Netlify
+- Netlify
 
 # Autor
 Marcelo Giacometti
